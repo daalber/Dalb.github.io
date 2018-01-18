@@ -1,0 +1,94 @@
+body{
+	font-family: Tahoma;
+	font-size: 15px;
+	line-height: .;
+	font: 15;
+
+	padding:0;
+	margin: 0;
+	background-color: #faf3dd;
+
+}
+/* Global */
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+
+}
+
+ul{
+	margin:0;
+	padding:0;
+
+}
+
+/* Header */
+header{
+	background: #789fbf;
+	color: #faf3dd;
+	position: absolute;
+	bottom: 47.5%;
+	width: 100%;
+	
+}
+
+header #logo{
+	text-align: center;
+	font-size: 30px;
+}
+
+/* Nav */
+#nav{
+	background: #c1a2c0;
+	position: absolute;
+	bottom: 43.5%;
+	width: 100%;
+}
+
+#nav a{
+	color: #5C5D67;
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+#nav li{
+	display: inline;
+	padding: 0 15px 0 15px;
+}
+
+
+#nav nav{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#nav .current a{
+	color: #faf3d3;
+	font-weight: bold;
+}
+
+/* Top Bar*/
+
+/*#topbar{
+	position: absolute;
+	background: #3e6990;
+	top: 0;
+	width: 100%;
+	height: 20px;
+}*/
+
+/* Footer */
+
+/* Colors:
+
+/*
+
+
+
+
+
+
+
